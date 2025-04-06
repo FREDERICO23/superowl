@@ -38,7 +38,7 @@ class Home extends React.Component{
                   <div className="table-row">
                     {/* logo */}
                     <div className="logo-wrap">
-                      <a href="index.html" className="logo"><img src="assets/images/logo.png" alt="" /></a>
+                      <a href="index.html" className="logo"><img src="assets/images/logo3.png" alt="" /></a>
                     </div>
                     {/* Menu & TopBar */}
                     <div className="nav-item">
