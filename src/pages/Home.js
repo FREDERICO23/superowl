@@ -36,7 +36,7 @@ class Home extends React.Component{
               <div className="menu-holder">
                 <div className="menu-wrap">
                   <div className="table-row">
-                    {/* logo */}
+                    {/* loogo */}
                     <div className="logo-wrap">
                       <a href="index.html" className="logo"><img src="assets/images/logo3.png" alt="" /></a>
                     </div>
