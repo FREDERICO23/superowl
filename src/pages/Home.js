@@ -40,7 +40,7 @@ class Home extends React.Component{
                     <div className="logo-wrap">
                       <a href="index.html" className="logo"><img src="assets/images/logo3.png" alt="" /></a>
                     </div>
-                    {/* Menu & TopBar */}
+                    {/* Menuu & TopBar */}
                     <div className="nav-item">
                       {/* Top Bar */}
                       <div className="contact-info-menu">
@@ -115,7 +115,7 @@ class Home extends React.Component{
                   <li data-transition="fade" className="align-center">
                     <img src="assets/pic/rsz_b.jpg" className="rev-slidebg" alt="" />	    
                     {/* - - - - - - - - - - - - - Layer 1 - - - - - - - - - - - - - - - - */}	    
-                    <div className="tp-caption tp-resizeme scaption-white-text rs-parallaxlevel-1" data-x="center" data-y="top" data-voffset={180} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:150,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]" data-responsive_offset="on" data-elementdelay="0.05">Welcome to SuperOwl Kindergarten!
+                    <div className="tp-caption tp-resizeme scaption-white-text rs-parallaxlevel-1" data-x="center" data-y="top" data-voffset={180} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:150,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]" data-responsive_offset="on" data-elementdelay="0.05">Welcome to Taalim Kindergarten!
                     </div>
                     {/* - - - - - - - - - - - - - End of Layer 1 - - - - - - - - - - - - - - - - */}	    
                     {/* - - - - - - - - - - - - - Layer 2 - - - - - - - - - - - - - - - - */}	    
@@ -132,7 +132,7 @@ class Home extends React.Component{
                   <li data-transition="fade" className="align-center">
                     <img src="assets/pic/rsz_e.jpg" className="rev-slidebg" alt="" />	    
                     {/* - - - - - - - - - - - - - Layer 1 - - - - - - - - - - - - - - - - */}	    
-                    <div className="tp-caption tp-resizeme scaption-white-text rs-parallaxlevel-1" data-x="center" data-y="top" data-voffset={180} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:150,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]" data-responsive_offset="on" data-elementdelay="0.05">Welcome to superOwl School of Early Learning!
+                    <div className="tp-caption tp-resizeme scaption-white-text rs-parallaxlevel-1" data-x="center" data-y="top" data-voffset={180} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:150,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]" data-responsive_offset="on" data-elementdelay="0.05">Welcome to Taalim School of Early Learning!
                     </div>
                     {/* - - - - - - - - - - - - - End of Layer 1 - - - - - - - - - - - - - - - - */}	    
                     {/* - - - - - - - - - - - - - Layer 2 - - - - - - - - - - - - - - - - */}	    
@@ -149,7 +149,7 @@ class Home extends React.Component{
                   <li data-transition="fade" className="align-center">
                     <img src="assets/pic/rsz_c.jpg" className="rev-slidebg" alt="" />	    
                     {/* - - - - - - - - - - - - - Layer 1 - - - - - - - - - - - - - - - - */}	    
-                    <div className="tp-caption tp-resizeme scaption-white-text rs-parallaxlevel-1" data-x="center" data-y="top" data-voffset={180} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:150,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]" data-responsive_offset="on" data-elementdelay="0.05">Welcome to SuperOwl Kindergarten!
+                    <div className="tp-caption tp-resizeme scaption-white-text rs-parallaxlevel-1" data-x="center" data-y="top" data-voffset={180} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:150,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]" data-responsive_offset="on" data-elementdelay="0.05">Welcome to Taalim Kindergarten!
                     </div>
                     {/* - - - - - - - - - - - - - End of Layer 1 - - - - - - - - - - - - - - - - */}	    
                     {/* - - - - - - - - - - - - - Layer 2 - - - - - - - - - - - - - - - - */}	    
@@ -176,7 +176,7 @@ class Home extends React.Component{
                     <img src="assets/pic/rsz_j.jpg" alt="" />
                   </div>
                   <div className="col-md-6 wow animated fadeIn slower" id="about">
-                    <h3>Welcome to SuperOwl <br /> School of Early Learning</h3>
+                    <h3>Welcome to Taalim <br /> School of Early Learning</h3>
                     <p className="text-size-medium">Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. </p>
                     {/* signature */}
                     <div className="signature">
@@ -191,7 +191,7 @@ class Home extends React.Component{
               <div className="container ">
                 <div className="row">
                   <div className="col-md-6 wow animated fadeIn slower">
-                    <h3>Welcome to SuperOwl <br /> School of Early Learning</h3>
+                    <h3>Welcome to Taalim <br /> School of Early Learning</h3>
                     <p className="text-size-medium">Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. </p>
                     {/* signature */}
                     <div className="signature">
